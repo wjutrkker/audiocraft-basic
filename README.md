@@ -1,5 +1,5 @@
 # audiocraft-basic
-A basic implementation of docker images for audiocraft and how to run the audio-craft code
+* A basic implementation of docker images for audiocraft and how to run the audio-craft code
 
 ```    
 git clone git@github.com:wjutrkker/audiocraft-basic.git
